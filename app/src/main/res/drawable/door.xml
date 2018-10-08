@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- we want this to be more than a door, so we make it a level-list-->
+<level-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:drawable="@drawable/closed_door_new"
+        android:maxLevel="0"/>
+
+    <item
+        android:drawable="@drawable/closed_door_chosen_new"
+        android:maxLevel="1"/>
+
+    <item
+        android:drawable="@drawable/carnew"
+        android:maxLevel="2"/>
+
+    <item
+        android:drawable="@drawable/goatnew"
+        android:maxLevel="3"/>
+
+    <item
+        android:drawable="@drawable/one"
+        android:maxLevel="6"/>
+
+    <item
+        android:drawable="@drawable/two"
+        android:maxLevel="5"/>
+
+    <item
+        android:drawable="@drawable/three"
+        android:maxLevel="4"/>
+</level-list>
